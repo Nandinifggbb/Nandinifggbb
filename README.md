@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @NandiniNS
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning JAVASCRIPT.
